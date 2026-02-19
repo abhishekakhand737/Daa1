@@ -1,10 +1,10 @@
-🧮 Matrix Chain Multiplication – Web Implementation
+# 🧮 Matrix Chain Multiplication – Web Implementation
 
 A simple and interactive web-based implementation of the Matrix Chain Multiplication (MCM) problem using Dynamic Programming.
 
 This project calculates the minimum number of scalar multiplications required to multiply a chain of matrices.
 
-📌 Problem Statement
+# 📌 Problem Statement
 
 Given a sequence of matrices, determine the most efficient way to multiply them together.
 
@@ -16,7 +16,7 @@ Matrix multiplication is associative, meaning:
 Different parenthesizations can lead to different computation costs.
 The goal is to minimize the total number of scalar multiplications.
 
-🚀 Features
+# 🚀 Features
 
 Modern Glassmorphism UI
 
@@ -30,7 +30,7 @@ Instant calculation
 
 Step-based mathematical explanation (added)
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 HTML5
 
@@ -40,7 +40,7 @@ JavaScript (ES6)
 
 Dynamic Programming
 
-🧠 Algorithm Explanation
+# 🧠 Algorithm Explanation
 
 The algorithm uses a DP table to store minimum multiplication costs.
 
@@ -175,7 +175,7 @@ Time Complexity: O(n³)
 
 Space Complexity: O(n²)
 
-▶️ How to Run
+# ▶️ How to Run
 
 Clone or download the repository.
 
@@ -187,7 +187,7 @@ Click Compute.
 
 View the minimum multiplication cost instantly.
 
-🎓 Learning Outcomes
+# 🎓 Learning Outcomes
 
 Understanding Dynamic Programming
 
@@ -199,7 +199,7 @@ Time & Space complexity analysis
 
 Mathematical reasoning in DAA
 
-👨‍💻 Author
+# 👨‍💻 Author
 
 Abhishek Akhand
 B.Tech – AI & Data Science (2nd Year)
